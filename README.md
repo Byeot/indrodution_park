@@ -1,4 +1,5 @@
 # indrodution_park
+## 반찬욱 영화를 소개하는 웹사이트입니다. 코르도바 환경으로 옮겼습니다.
 >[github](https://byeot.github.io/About_Park_M/)  
 [nettlify](https://introdution.netlify.app/)
 
@@ -21,8 +22,7 @@
 
 
 # 코르도바 모바일 실행화면
-![image](https://user-images.githubusercontent.com/94339420/204196358-09d9233e-9bea-46c0-a49e-e24bd06eae7c.png)
-
+![image](https://user-images.githubusercontent.com/94339420/204196358-09d9233e-9bea-46c0-a49e-e24bd06eae7c.png  width="230px")
 
 ![image](https://user-images.githubusercontent.com/94339420/204196405-f698dbf1-9743-4898-bae1-2dae60f5cb82.png)
 
