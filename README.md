@@ -25,7 +25,10 @@
 
 # 코르도바 모바일 실행화면
 
-<img src="https://user-images.githubusercontent.com/94339420/204196449-7e048a1d-b047-4392-8c1f-9dd043a4383d.png" width="30%" align="right">
+
+
+
+<img src="https://user-images.githubusercontent.com/94339420/204440733-1b6e1a0c-9002-43a3-8a5b-1a2937b03833.png" width="30%" align="right">
 
 <img src="https://user-images.githubusercontent.com/94339420/204196358-09d9233e-9bea-46c0-a49e-e24bd06eae7c.png" width="30%"  align="right">
 
