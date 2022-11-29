@@ -22,15 +22,19 @@
 
 
 # 코르도바 모바일 실행화면
-![image](https://user-images.githubusercontent.com/94339420/204196358-09d9233e-9bea-46c0-a49e-e24bd06eae7c.png  width="230px")
 
-![image](https://user-images.githubusercontent.com/94339420/204196405-f698dbf1-9743-4898-bae1-2dae60f5cb82.png)
+<img src="https://user-images.githubusercontent.com/94339420/204196358-09d9233e-9bea-46c0-a49e-e24bd06eae7c.png" width="30%">
+
+<img src="https://user-images.githubusercontent.com/94339420/204196405-f698dbf1-9743-4898-bae1-2dae60f5cb82.png" width="30%">
+
+<img src="https://user-images.githubusercontent.com/94339420/204196449-7e048a1d-b047-4392-8c1f-9dd043a4383d.png" width="30%">
 
 
-![image](https://user-images.githubusercontent.com/94339420/204196449-7e048a1d-b047-4392-8c1f-9dd043a4383d.png)
+
+<img src="https://user-images.githubusercontent.com/94339420/204196602-dfb65008-04ca-43f6-8b9b-da73bf8fbbed.png" width="30%">
 
 
-![image](https://user-images.githubusercontent.com/94339420/204196602-dfb65008-04ca-43f6-8b9b-da73bf8fbbed.png)
+
 
 
 
