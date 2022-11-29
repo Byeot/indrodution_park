@@ -14,11 +14,12 @@
 
 ![image](https://user-images.githubusercontent.com/94339420/204194230-23713ba5-1bab-4f45-8523-1256fb66ad38.png)
 
-> 
+> 트레일러 영상 페이지입니다.
+
+
 ![image](https://user-images.githubusercontent.com/94339420/204194260-a2b841a4-40b6-4e13-b7e9-3430a66d2e13.png)
 
-
-
+>
 ![image](https://user-images.githubusercontent.com/94339420/204194290-41884182-203f-4284-9a44-a133ffe85d6f.png)
 
 
@@ -27,8 +28,6 @@
 
 
 
-
-<img src="https://user-images.githubusercontent.com/94339420/204440733-1b6e1a0c-9002-43a3-8a5b-1a2937b03833.png" width="30%" align="right">
 
 <img src="https://user-images.githubusercontent.com/94339420/204196358-09d9233e-9bea-46c0-a49e-e24bd06eae7c.png" width="30%"  align="right">
 
