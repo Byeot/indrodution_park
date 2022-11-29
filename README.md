@@ -32,8 +32,6 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/94339420/204196602-dfb65008-04ca-43f6-8b9b-da73bf8fbbed.png" width="30%">
-
 
 
 
