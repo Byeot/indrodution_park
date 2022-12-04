@@ -11,7 +11,7 @@
 
 
 
-<img src="https://user-images.githubusercontent.com/94339420/204194187-70a24c0d-113e-4f95-93e0-7d9ce94365b3.png" width="30%">
+<img src="https://user-images.githubusercontent.com/94339420/204194187-70a24c0d-113e-4f95-93e0-7d9ce94365b3.png" width="90%">
 
 > 메인화면
 
