@@ -26,9 +26,9 @@
 
 
 
-# 코르도바 실행화면
+# 코르도바 실행
 
-<img src="https://user-images.githubusercontent.com/94339420/204196358-09d9233e-9bea-46c0-a49e-e24bd06eae7c.png" width="30%">
+<img src="https://user-images.githubusercontent.com/94339420/204196358-09d9233e-9bea-46c0-a49e-e24bd06eae7c.png" width="30%" align="">
 
 <img src="https://user-images.githubusercontent.com/94339420/204196405-f698dbf1-9743-4898-bae1-2dae60f5cb82.png" width="30%">
 
