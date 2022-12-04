@@ -30,13 +30,11 @@
 
 <img src="https://user-images.githubusercontent.com/94339420/205494669-4958724c-38b8-4394-8162-7a6a57eccfcf.png" width="25%" align="left">
 
-<img src="https://user-images.githubusercontent.com/94339420/205494700-eef5a944-efcc-46f9-bd46-13165be59d17.png" width="25%" align="left">
+<img src="https://user-images.githubusercontent.com/94339420/205495078-16719bea-3d62-41b6-95e5-e0eab142f24e.png" width="25%" align="left">
 
 <img src="https://user-images.githubusercontent.com/94339420/205494744-f3cd6a17-01ec-469a-bb1e-3a13b89470fb.png" width="25%" align="left">
 
 <img src="https://user-images.githubusercontent.com/94339420/205494806-5a3c501c-0a2d-4bb1-90aa-2ca03e217147.png" width="25%">
-
-
 
 
 
