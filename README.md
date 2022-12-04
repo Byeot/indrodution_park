@@ -1,16 +1,19 @@
-# indrodution_park
- 박찬욱 영화를 소개하는 웹사이트입니다.
- 
+# indrodution_park 
 >[github](https://byeot.github.io/About_Park_M/)  
 [nettlify](https://introdution.netlify.app/)
 
+ 박찬욱 영화를 소개하는 웹사이트입니다.
+ 
 
 
-# 웹사이트
 
-![image](https://user-images.githubusercontent.com/94339420/204194187-70a24c0d-113e-4f95-93e0-7d9ce94365b3.png)
+# 웹사이트 구조
 
-> 메인화면입니다.
+
+
+<img src="https://user-images.githubusercontent.com/94339420/204194187-70a24c0d-113e-4f95-93e0-7d9ce94365b3.png" width="30%">
+
+> 메인화면
 
 ![image](https://user-images.githubusercontent.com/94339420/204194230-23713ba5-1bab-4f45-8523-1256fb66ad38.png)
 
@@ -24,7 +27,7 @@
 
 
 
-# 코르도바 모바일 실행화면
+# 코르도바 실행화면
 
 
 
