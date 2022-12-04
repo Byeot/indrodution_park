@@ -2,7 +2,7 @@
 >[github](https://byeot.github.io/About_Park_M/)  
 >[nettlify](https://introdution.netlify.app/)
 
- 박찬욱 영화를 소개하는 앱입니다.
+ 박찬욱 영화를 소개하는 하이브리드앱입니다.
  
 
 
@@ -20,7 +20,8 @@
 <img src="https://user-images.githubusercontent.com/94339420/204194260-a2b841a4-40b6-4e13-b7e9-3430a66d2e13.png" width="90%">
 
 
-<img src="https://user-images.githubusercontent.com/94339420/204194260-a2b841a4-40b6-4e13-b7e9-3430a66d2e13.png" width="90%">
+<img src="https://user-images.githubusercontent.com/94339420/205493496-2ee563f0-a706-4af6-978d-2ba1f9adba85.png" width="90%">
+
 
 
 
