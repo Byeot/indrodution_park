@@ -1,5 +1,5 @@
 # indrodution_park
- 박찬욱 영화를 소개하는 웹사이트입니다. 코르도바 환경으로 옮겼습니다.
+ 박찬욱 영화를 소개하는 웹사이트입니다.
  
 >[github](https://byeot.github.io/About_Park_M/)  
 [nettlify](https://introdution.netlify.app/)
