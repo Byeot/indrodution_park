@@ -29,13 +29,13 @@
 
 # 코르도바 실행
 
-<img src="https://user-images.githubusercontent.com/94339420/205494669-4958724c-38b8-4394-8162-7a6a57eccfcf.png" width=20% height="500" align="left">
+<img src="https://user-images.githubusercontent.com/94339420/205494669-4958724c-38b8-4394-8162-7a6a57eccfcf.png" width=40% height=500 align="left">
 
-<img src="https://user-images.githubusercontent.com/94339420/205495117-fef8d003-53e2-41ac-985b-30ef127a00e2.png"  width=20%  height="500" align="left">
+<img src="https://user-images.githubusercontent.com/94339420/205495117-fef8d003-53e2-41ac-985b-30ef127a00e2.png"  width=40%  height=500 align="left">
 
-<img src="https://user-images.githubusercontent.com/94339420/205494744-f3cd6a17-01ec-469a-bb1e-3a13b89470fb.png"  width=20%  height="500" align="left">
+<img src="https://user-images.githubusercontent.com/94339420/205494744-f3cd6a17-01ec-469a-bb1e-3a13b89470fb.png"  width=40%  height=500 align="left">
 
-<img src="https://user-images.githubusercontent.com/94339420/205494806-5a3c501c-0a2d-4bb1-90aa-2ca03e217147.png"  width=20%  height="500">
+<img src="https://user-images.githubusercontent.com/94339420/205494806-5a3c501c-0a2d-4bb1-90aa-2ca03e217147.png"  width=40%  height=500>
 
 
 
