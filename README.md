@@ -2,7 +2,7 @@
 >[github](https://byeot.github.io/About_Park_M/)  
 >[nettlify](https://introdution.netlify.app/)
 
-###About
+### About
  박찬욱 영화를 소개하는 하이브리드앱입니다.
  
 
