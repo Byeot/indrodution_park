@@ -1,0 +1,123 @@
+﻿<!DOCTYPE HTML>
+<html>
+<head>
+	
+	<meta charset="utf-8"/>
+	<meta name="viewport" content="width=device-width, initial-scale=1"/>
+	<title>jQuery Mobile</title>
+	
+	<link rel="stylesheet" href="jquery.mobile/jquery.mobile-1.4.5.min.css"/>
+	<script src="jquery.mobile/jquery-1.11.1.min.js"></script>
+	<script src="jquery.mobile/jquery.mobile-1.4.5.min.js"></script>
+	
+	<script src="cordova.js"></script>	
+
+<style>
+   li { list-style:none; }
+  .picture { list-style:none; padding:0; margin:0; }
+  .picture li { float:left; width:450px;}
+  .picture li img { display:block; width:500px; height: 285px; margin-right: 30px;
+
+	-webkit-filter: grayscale(100%);filter: grayscale(100%);}
+
+.picture li img:hover {
+  			filter: none;
+  		-webkit-filter: grayscale(0%);}
+
+
+</style>
+</head>
+
+<body>
+<div data-theme="b">
+	<div data-role="page" id="home">
+		<div data-role="header" data-theme="b">
+			<h1>박찬욱 영화 소개 앱</h1>
+		</div>
+		<div data-role="content" style="text-align:center">
+				<img src="packchan.jpg" height="160px" >
+			<ul data-role="listview" data-inset="true">
+				<li><a href="#intro">영화 소개</a></li>
+				<li><a href="#movietrailer" data-rel="dialog">트레일러 영상</a></li>
+				<li><a href="#gallery">영화사진</a></li>
+			</ul>
+		</div>
+		<div data-role="footer" data-position="fixed" data-theme="b">
+			<h1>영화소개_박찬욱</h1>
+		</div>
+	</div>
+	
+	<div data-role="page" id="intro" data-theme="b">
+		<div data-role="header" data-theme="b">
+			<a href="#home" data-icon="arrow-l" data-direction="reverse">처음</a>			
+			<h1>영화 소개</h1>
+		</div>
+		<div data-role="content">
+				<div  style="text-align:center">
+					<img src="헤어질_결심_포스터.jpg">
+				</div>			
+			<div data-role="collapsible-set" data-theme="white" data-content-theme="w">
+				<div data-role="collapsible" data-collapsed="false">
+					<h3>줄거리</h3>
+					<p>"헤어질 결심"은 산에서 벌어진 변사 사건을 수사하게 된 형사 ‘해준’(박해일)이 사망자의 아내 ‘서래’(탕웨이)를 만난 후 의심과 관심을 동시에 느끼며 시작되는 이야기를 그린 영화다.</p>
+				</div>
+				
+				<div data-role="collapsible">
+					<h3>명대사</h3>
+					<p>내가 품위 있댔죠? 품위가 어디에서 나오는지 알아요? 자부심이에요.<br>난 자부심 있는 경찰이었어요. 그런데 여자에 미쳐서... 수사를 망쳤죠. <br>나는요... 완전히 붕괴됐어요.<br> 할머니 폰 바꿔 드렸어요, 같은 기종으로. 전혀 모르고 계세요.<br>저 폰은 바다에 버려요. 깊은 데 빠뜨려서, 아무도 못 찾게 해요.<br>- 해준<br><br>
+					
+						(서래가 중국어로 고양이에게 하는 말을 해준이 옆에서 번역 앱으로 재생) 또 까마귀야? 내가 너한테 밥 준다고? 그럼 됐어. <br>나한테 선물을 꼭 하고 싶다면, 그 친절한 형사의 심장을 가져다 주세요. <br>난 좀 갖고 싶네. <br>- 서래</p>
+				</div>
+				<div data-role="collapsible" >
+					<h3>수상</h3>
+					<p> 칸 영화제감독상	<br>
+						춘사영화제 최우수 감독상</p>
+				</div>
+			</div>
+		</div>
+		<div data-role="footer" data-position="fixed" data-theme="b">
+			<h1>영화소개_박찬욱</h1>
+		</div>		
+	</div>
+	
+	<div data-role="page" id="movietrailer"  data-theme="b">
+		<div data-role="header" data-position="fixed">
+			<h1>영화 트레일러</h1>
+		</div>
+		<div data-role="content"  data-theme="b">
+			<div class="ui-bar ui-bar-e">예고편1</div><br/>
+			<li><iframe width="468px" height="263px" src="https://www.youtube.com/embed/i50tT8n9fp8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></li><br/>
+			<div class="ui-bar ui-bar-e">예고편 2</div><br/>
+			<li><iframe width="468" height="263" src="https://www.youtube.com/embed/A33AdB4u8GQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></li><br/>
+			<div class="ui-bar ui-bar-e">외국 트레일러</div><br/>
+			<li><iframe width="468" height="263" src="https://www.youtube.com/embed/nsPFe-omTAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></li>	
+		</div>
+		<div data-role="footer" data-theme="b">
+		</div>
+	</div>
+	
+
+
+
+	<div data-role="page" id="gallery"  data-theme="w">
+		<div data-role="header" data-position="fixed"  data-theme="b">
+			<a href="#home" data-icon="arrow-l" data-direction="reverse">처음</a>
+			<h1>영화 갤러리</h1>
+		</div>
+		<div data-role="content">
+            <ul class="picture">
+				<li><a href="oldboy.png" rel="external"><img src="oldboy.jpg" /></a></li>	
+				<li><a href="handmaiden.jpg" rel="external"><img src="handmaiden.jpg" /></a></li>	
+				<li><a href=".jpg" rel="external"><img src="헤어질결심.jpg" /></a></li>	
+				<li><a href="친절한금자씨.jpg" rel="external"><img src="친절한금자씨.jpg" /></a></li>	
+				<li><a href="공동경비구역.jpg" rel="external"><img src="공동경비구역.jpg" /></a></li>	
+				
+            </ul>
+		</div>
+		<div data-role="footer" data-position="fixed" data-theme="b">
+			<h1>영화 소개_박찬욱</h1>
+		</div>		
+	</div>
+</div>	
+</body>
+</html>
